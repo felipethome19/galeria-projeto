@@ -4,7 +4,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: white;
+   background-color: #e8f0fe;
     margin: 0;
     padding: 40px;
     text-align: center;
@@ -25,6 +25,7 @@ h1 {
     padding: 20px;
     background-color: #f2f2f2;
     border: 1px solid #ccc;
+    border-radius: 15px;
 }
 
 .card img {
